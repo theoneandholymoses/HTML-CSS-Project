@@ -34,7 +34,7 @@ header {
     box-shadow: 5px 5px 15px gray;
     background-color: transparent;
     border-radius: 10px;
-    transition: 0.75s;-
+    transition: 0.75s;
 }
 
 .card:hover{
